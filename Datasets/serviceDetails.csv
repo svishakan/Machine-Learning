@@ -1,0 +1,252 @@
+,customerID,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Churn
+1,8260-NGFNY,No,No phone service,DSL,No,No,No,No,No,No,Yes
+2,2359-QWQUL,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Yes
+3,6598/RFFVI,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes
+4,IXSTS-8780,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Yes
+5,2674/MIAHT,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,No
+6,6077-BDPXA,Yes,No,Fiber optic,No,No,No,No,No,No,No
+7,7929/SKFGK,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,No
+8,7547-EKNFS,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Yes
+9,5854-KSRBJ,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+10,5054-IEXZT,Yes,No,Fiber optic,No,Yes,No,No,No,No,Yes
+11,1877-HKBQX,Yes,No,DSL,Yes,No,No,Yes,No,No,No
+12,7235-NXZCP,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes
+13,3325-FUYCG,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Yes
+14,2452-MRMZF,Yes,Yes,No,Yes,Yes,No internet service,No internet service,Yes,No internet service,No
+15,9184-GALIL,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+16,9374-YOLBJ,Yes,No,No,Yes,Yes,No internet service,No internet service,Yes,No internet service,No
+17,2612-PHGOX,Yes,Yes,DSL,No,Yes,Yes,Yes,No internet service,No internet service,No
+18,6874-SGLHU,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,No
+19,9588-YRFHY,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+20,6513-EECDB,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes
+21,1306-RPWXZ,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+22,3797-VTIDR,No,No phone service,DSL,No,No,No,No,No,No,Yes
+23,2657-VPXTA,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,No
+24,8464-EETCQ,Yes,No,No,Yes,Yes,No internet service,No internet service,Yes,No internet service,No
+25,0307-BCOPK,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+26,9762-YAQAA,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,No
+27,1114-CENIM,Yes,Yes,DSL,No,Yes,No,No,No,No,Yes
+28,1090-PYKCI,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,No
+29,6362-QHAFM,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,No
+30,7978-DKUQH,Yes,No,Fiber optic,No,No,Yes,No,No,No,No
+31,6463-HHXJR,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,No
+32,2592-YKDIF,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+33,3307-TLCUD,No,No phone service,DSL,Yes,No,Yes,No,No,No,No
+34,6651-AZVTJ,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Yes
+35,7181-OQCUT,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,No
+36,2307-FYNNL,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,No
+37,3671-SHRSP,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,Yes
+38,3399-BMLVW,Yes,No,DSL,Yes,Yes,No,Yes,No,No,No
+39,7572-KPVKK,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,No
+40,8898-KASCD,No,No phone service,DSL,No,No,Yes,Yes,No,No,No
+41,8853-TZDGH,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,No
+42,4910-AQFFX,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Yes
+43,7359-SSBJK,Yes,No,DSL,Yes,Yes,No,Yes,No internet service,No internet service,Yes
+44,4106-HADHQ,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes
+45,4822-NGOCH,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Yes
+46,9067-SQTNS,Yes,No,No,Yes,Yes,No internet service,No internet service,Yes,No internet service,No
+47,0587-DMGBH,Yes,No,DSL,Yes,No,No,No,No,No,Yes
+48,9391-DXGGG,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,No
+49,8932-CZHRQ,Yes,Yes,DSL,Yes,Yes,Yes,No,No,Yes,No
+50,8714-EUHJO,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Yes
+51,6652-YFFJO,Yes,No,DSL,No,No,No,No,Yes,Yes,No
+52,7488-MXJIV,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Yes
+53,9823-EALYC,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,No
+54,1591-MQJTP,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,Yes,No
+55,4480-QQRHC,Yes,No,Fiber optic,No,No,Yes,No,No,No,No
+56,4737-HOBAX,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,No
+57,3585-YNADK,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,No
+58,3733-UOCWF,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No,No
+59,1363-TXLSL,Yes,No,Fiber optic,No,No,No,No,No,No,Yes
+60,0195-IESCP,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Yes
+61,8550-XSXUQ,Yes,Yes,DSL,No,Yes,Yes,No,No,Yes,No
+62,0495-ZBNGW,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Yes
+63,1422-DGUBX,Yes,Yes,Fiber optic,No,No,No,Yes,No internet service,No internet service,No
+64,0402-CQAJN,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes
+65,7605-BDWDC,No,No phone service,DSL,Yes,Yes,No,Yes,No,Yes,No
+66,4098-NAUKP,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,No
+67,4759-TRPLW,Yes,No,Fiber optic,No,No,No,No,No,No,Yes
+68,2040-XBAVJ,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,No
+69,8087-LGYHQ,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,No
+70,6374-AFWOX,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,No
+71,5022-JNQEQ,Yes,No,Fiber optic,No,No,No,Yes,No,No,No
+72,9824-QCJPK,Yes,No,No,Yes,Yes,No internet service,No internet service,Yes,No internet service,No
+73,2333-KWEWW,Yes,No,No,Yes,Yes,No internet service,No internet service,Yes,No internet service,No
+74,3889-VWBID,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,No
+75,8946-BFWSG,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+76,5996-DAOQL,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+77,8148-BPLZQ,Yes,No,DSL,No,Yes,No,No,No internet service,No internet service,No
+78,1764-VUUMT,Yes,No,No,Yes,Yes,No internet service,No internet service,Yes,No internet service,No
+79,1347-KTTTA,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,No
+80,8065-YKXKD,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes
+81,5334-AFQJB,Yes,Yes,No,Yes,Yes,No internet service,No internet service,Yes,No internet service,No
+82,0431-APWVY,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Yes
+83,6202-DYYFX,Yes,Yes,Fiber optic,No,No,No,No,No,No,No
+84,8869-LIHMK,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,No
+85,3441-CGZJH,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,No
+86,8727-XDPUD,No,No phone service,DSL,No,No,No,No,Yes,No,No
+87,1754-GKYPY,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,No
+88,8404-VIOMB,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No
+89,5919-TMRGD,Yes,No,Fiber optic,No,No,No,No,No internet service,No internet service,Yes
+90,5201-CBWYG,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+91,0374-IOEGQ,Yes,No,DSL,No,No,No,No,No,No,No
+92,4818-DRBQT,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Yes
+93,3701-SFMUH,Yes,No,DSL,Yes,No,No,No,Yes,Yes,No
+94,1171-TYKUR,Yes,Yes,No,Yes,Yes,No internet service,No internet service,Yes,No internet service,No
+95,1785-BPHTP,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,No
+96,3606-TWKGI,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Yes
+97,2845-KDHVX,Yes,No,DSL,No,Yes,Yes,Yes,No,Yes,No
+98,9927-DSWDF,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,No
+99,2272-JKMSI,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,No
+100,5055-MGMGF,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,No
+101,6351-SCJKT,No,No phone service,DSL,Yes,No,Yes,Yes,No,No,No
+102,9392-XBGTD,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+103,6504-VBLFL,Yes,No,DSL,Yes,Yes,Yes,No,No,No,No
+104,2675-DHUTR,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,No
+105,0187-WZNAB,Yes,No,Fiber optic,Yes,No,No,No,No,No,No
+106,6168-YBYNP,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,No
+107,5820-PTRYM,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,No
+108,2810-FTLEM,Yes,No,DSL,Yes,No,No,No,No,No,Yes
+109,3620-EHIMZ,Yes,No,No,Yes,Yes,No internet service,No internet service,Yes,No internet service,No
+110,7596-ZYWBB,Yes,No,DSL,Yes,Yes,No,Yes,No,No,No
+111,2851-MMUTZ,Yes,No,DSL,No,Yes,No,Yes,No,No,No
+112,3842-QTGDL,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,No
+113,5130-YPIRV,Yes,No,DSL,Yes,Yes,Yes,No,No internet service,No internet service,No
+114,2000-MPKCA,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,No
+115,2969-WGHQO,Yes,No,DSL,Yes,Yes,Yes,No,No internet service,No internet service,No
+116,5712-AHQNN,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,No
+117,4132-KALRO,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,No
+118,4847-TAJYI,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,No
+119,3694-GLTJM,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+120,8430-TWCBX,Yes,No,No,Yes,Yes,No internet service,No internet service,Yes,No internet service,No
+121,0883-EIBTI,Yes,No,No,Yes,Yes,No internet service,No internet service,Yes,No internet service,Yes
+122,1096-ADRUX,Yes,Yes,Fiber optic,No,No,No,No,No,No,No
+123,9108-EQPNQ,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+124,2717-HVIZY,Yes,No,No,Yes,Yes,No internet service,No internet service,Yes,No internet service,No
+125,2316-ESMLS,No,No phone service,DSL,Yes,No,No,Yes,No,No,No
+126,1561-BWHIN,Yes,No,No,Yes,Yes,No internet service,No internet service,Yes,No internet service,No
+127,1094-BKOSX,No,No phone service,DSL,No,Yes,Yes,Yes,No,Yes,No
+128,6390-DSAZX,Yes,No,Fiber optic,Yes,No,No,No,No,No,Yes
+129,7799-LGRDP,Yes,Yes,No,Yes,Yes,No internet service,No internet service,Yes,No internet service,No
+130,3164-AALRN,Yes,No,DSL,No,No,Yes,No,Yes,Yes,Yes
+131,4682-BLBUC,Yes,No,DSL,No,Yes,Yes,Yes,Yes,No,No
+132,3258-ZKPAI,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,No
+133,3261-CQXOL,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+134,1282-IHQAC,No,No phone service,DSL,No,Yes,Yes,No,No internet service,No internet service,No
+135,2027-WKXMW,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,No
+136,0601-WZHJF,No,No phone service,DSL,No,No,No,No,Yes,Yes,Yes
+137,6447-GORXK,No,No phone service,DSL,No,No,No,No,No,No,No
+138,2481-SBOYW,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+139,6207-WIOLX,No,No phone service,DSL,Yes,Yes,Yes,No,No internet service,No internet service,Yes
+140,0607-DAAHE,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes
+141,2458-EOMRE,Yes,No,DSL,Yes,No,Yes,No,No,Yes,No
+142,5275-SQEIZ,Yes,No,Fiber optic,No,No,No,No,No,Yes,Yes
+143,9122-UMROB,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+144,7627-JKIAZ,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Yes
+145,9396-ZSFLL,Yes,Yes,DSL,No,No,No,No,No,No,No
+146,4081-DYXAV,No,No phone service,DSL,No,No,No,No,Yes,Yes,Yes
+147,1918-ZBFQJ,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Yes
+148,4432-ADRLB,Yes,No,DSL,No,No,No,No,No,No,Yes
+149,4971-PUYQO,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Yes
+150,1976-AZZPJ,No,No phone service,DSL,Yes,Yes,No,No,No,No,No
+151,5857-TYBCJ,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,No
+152,8347-GDTMP,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+153,1485-YDHMM,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,No
+154,0193-ESZXP,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Yes
+155,6142-VSJQO,Yes,No,DSL,No,No,No,No,No,No,Yes
+156,7181-BQYBV,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Yes
+157,9210-IAHGH,Yes,No,DSL,No,No,No,Yes,Yes,Yes,Yes
+158,9489-JMTTN,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No
+159,3030-YZADT,Yes,No,DSL,No,No,No,No,No,No,Yes
+160,9025-ZRPVR,Yes,No,No,Yes,Yes,No internet service,No internet service,Yes,No internet service,Yes
+161,5419-KLXBN,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Yes
+162,3703-KBKZP,Yes,Yes,Fiber optic,No,No,No,No,No,No,No
+163,8735-DCXNF,Yes,No,DSL,Yes,No,No,Yes,No,No,No
+164,1230-QAJDW,Yes,Yes,DSL,No,No,No,Yes,Yes,No,No
+165,3452-FLHYD,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+166,8231-BSWXX,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,No
+167,7408-OFWXJ,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No
+168,4018-PPNDW,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+169,9961-JBNMK,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Yes
+170,1116-FRYVH,No,No phone service,DSL,Yes,Yes,No,Yes,No,No,No
+171,7009-LGECI,Yes,No,DSL,Yes,No,No,No,No,No,No
+172,2640-PMGFL,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,Yes
+173,9885-AIBVB,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,No
+174,6762-NSODU,Yes,No,No,Yes,Yes,No internet service,No internet service,Yes,No internet service,No
+175,3428-XZMAZ,Yes,No,Fiber optic,No,No,No,No,No,No,Yes
+176,8543-MSDMF,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,No
+177,0115-TFERT,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Yes
+178,6211-WWLTF,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,No
+179,2311-QYMUQ,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Yes
+180,7932-WPTDS,No,No phone service,DSL,No,No,No,No,No,No,Yes
+181,0203-HHYIJ,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes
+182,3621-CEOVK,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Yes
+183,9746-UGFAC,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+184,4291-HYEBC,No,No phone service,DSL,No,Yes,No,No,No,Yes,No
+185,3988-RQIXO,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Yes
+186,0440-MOGPM,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,No
+187,7856-GANIL,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,No,No
+188,1750-CSKKM,Yes,No,DSL,No,No,No,No,Yes,No,Yes
+189,4134-BSXLX,Yes,No,DSL,Yes,Yes,No,Yes,No,No,No
+190,9830-ECLEN,No,No phone service,DSL,Yes,Yes,Yes,No,Yes,No,No
+191,7064-JHXCE,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+192,7017-VFULY,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+193,0529-ONKER,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes
+194,3977-QCRSL,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+195,0567-GGCAC,Yes,No,DSL,Yes,Yes,Yes,No,No,No,No
+196,0958-YHXGP,Yes,No,Fiber optic,No,No,No,No,No,No,No
+197,9812-GHVRI,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,No
+198,2676-SSLTO,Yes,Yes,DSL,No,No,No,Yes,Yes,No,No
+199,7080-TNUWP,Yes,Yes,Fiber optic,No,Yes,Yes,No,No internet service,No internet service,No
+200,9947-OTFQU,Yes,No,Fiber optic,No,Yes,No,No,No,No,Yes
+201,3886-CERTZ,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Yes
+202,4070-OKWVH,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,No
+203,2190-PHBHR,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,No
+204,5708-EVONK,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Yes
+205,6959-GQEGV,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,No
+206,6917-FIJHC,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+207,0913-XWSCN,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,No
+208,3649-JPUGY,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,No
+209,3612-YVGSJ,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+210,3090-LETTY,Yes,Yes,DSL,Yes,Yes,No,No,No,No,No
+211,1814-DKOLC,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+212,8931-GJJIQ,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Yes
+213,4291-TPNFG,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,No
+214,1567-DSCIC,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Yes
+215,4236-UJPWO,No,No phone service,DSL,No,No,No,No,No,No,No
+216,2538-OIMXF,No,No phone service,DSL,No,No,No,No,No,No,No
+217,7730-CLDSV,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,Yes,No
+218,8854-CCVSQ,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Yes
+219,8413-VONUO,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Yes
+220,7673-BQGKU,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+221,3128-YOVTD,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,No
+222,5304-EFJLP,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,No
+223,1945-XISKS,Yes,No,No,Yes,Yes,No internet service,No internet service,Yes,No internet service,No
+224,5906-DVAPM,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,No
+225,2361-FJWNO,No,No phone service,DSL,No,Yes,No,Yes,No,No,No
+226,6583-QGCSI,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Yes
+227,6229-LSCKB,Yes,No,Fiber optic,No,No,No,No,Yes,No,No
+228,4130-MZLCC,Yes,No,DSL,No,Yes,No,No,No,No,No
+229,4686-GEFRM,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,Yes,No
+230,2710-WYVXG,Yes,No,DSL,Yes,Yes,No,Yes,No,Yes,No
+231,2189-UXTKY,Yes,Yes,DSL,Yes,No,No,Yes,Yes,Yes,Yes
+232,6876-ADESB,Yes,No,DSL,No,No,Yes,No,No,No,Yes
+233,9565-DJPIB,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Yes
+234,3635-JBPSG,No,No phone service,DSL,No,Yes,No,No,No,Yes,No
+235,8882-TLVRW,No,No phone service,DSL,Yes,No,Yes,Yes,No,No,No
+236,1972-XMUWV,Yes,No,DSL,No,No,No,Yes,Yes,No,No
+237,2038-OEQZH,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,No
+238,9734-YWGEX,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Yes
+239,4088-YLDSU,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Yes
+240,3137-LUPIX,Yes,Yes,DSL,No,No,No,Yes,Yes,No,No
+241,6177-PEVRA,Yes,No,DSL,Yes,Yes,No,No,No,No,No
+242,3845-FXCYS,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+243,7690-KPNCU,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,No
+244,2589-AYCRP,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+245,4625-EWPTF,No,No phone service,DSL,Yes,No,No,No,No,No,Yes
+246,8111-RKSPX,Yes,Yes,Fiber optic,No,No,No,No,No,No,Yes
+247,6922-NCEDI,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,No
+248,5192-EBGOV,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Yes
+249,8495-PRWFH,Yes,Yes,DSL,No,No,Yes,No,No,No,No
+250,9318-NKNFC,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Yes
+251,9067-SQTNS,Yes,No,No,Yes,Yes,No internet service,No internet service,Yes,No internet service,No
