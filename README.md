@@ -1,2 +1,2 @@
 # Machine-Learning
-Files related to my machine learning course
+Collection of files related to my machine learning course
